@@ -1,9 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-color: black;
     color: #F6F6F6;
 }
 
-strong {
+.titulo-destaque {
     color: #9317F0;
 }
 
