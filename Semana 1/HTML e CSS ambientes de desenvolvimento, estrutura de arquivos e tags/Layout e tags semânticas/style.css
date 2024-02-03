@@ -4,6 +4,8 @@
 }
 
 body {
+    height: 100vh;
+    box-sizing: border-box;
     background-color: black;
     color: #F6F6F6;
 }
@@ -12,7 +14,18 @@ body {
     color: #9317F0;
 }
 
+p {
+    margin: 10px;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+
 a {
     color: #9317F0;
 }
 
+.apresentacao {
+    display: flex;
+    align-items: center;
+}
