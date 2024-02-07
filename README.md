@@ -27,7 +27,6 @@ Como desenvolvedor backend, aprender sobre Front é um desafio e tanto, mas acre
 - Projeto personalizado com paletas de cores pessoais e disposição de itens
 - Imagem pessoal
 - Projeto com intenção de ser usado como portfolio pessoal
-- Botões levando corretamente as minhas redes sociais
 
 
 # Semana 2 - 🍃
@@ -37,3 +36,15 @@ Na semana 2, continuo estudando HTML e CSS, focando na estruturação de página
 No momento, estou estudando técnicas para tornar os projetos responsivos, garantindo uma boa experiência de visualização em diferentes dispositivos.
 
 ### Projeto da semana - em progresso
+
+
+https://github.com/EryckBarreto/desenvolve/assets/126429105/0d0c852e-aa03-485b-bcd7-111aca1446f1
+
+- Adicionado um "Sobre mim" no projeto
+- Adicionado efeito hover nos botões
+- Na semana 1 ainda não tinha nem o footer e nem o header
+
+# O caminho até aqui
+
+Conforme for avançando no cronograma do curso e no desenvolvimento dos projetos, irei atualizar esse readme, para mapear não apenas meu crescimento mas para registrar essa jornada que, pra mim, está sendo incrível. 
+
