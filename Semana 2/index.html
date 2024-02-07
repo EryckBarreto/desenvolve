@@ -4,23 +4,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./styles/style.css">
 </head>
 <body>
-    <header></header>
+    <header class="cabecalho">
+        <nav class="cabecalho__menu">
+            <a class="cabecalho__menu__link" href="index.html">Home</a>
+            <a class="cabecalho__menu__link" href="about.html">Sobre mim</a>
+        </nav>
+    </header>
     <main class="apresentacao">
         <section class="apresentacao__conteudo">
             <h1 class = "apresentacao__conteudo__titulo">A arte do backend é <strong class="titulo-destaque">transformar o caos dos dados em harmonia de informações.</strong></h1>
             <p class = "apresentacao__conteudo__texto">Olá! Sou Eryck Barreto, desenvolvedor Back-End com especialidade em Java e conhecimentos em React. Se quer um pouco de mágica em forma de códigos, siga-me em minhas redes sociais.</p>
             <div class="apresentacao__links">
                 <h2 class="apresentacao__links_subtitulo">Acesse minhas redes:</h2>
-                <a class ="apresentacao__links__link" href="https://www.linkedin.com/in/eryckbarreto/">LinkedIn</a>
-                <a class ="apresentacao__links__link" href="https://github.com/EryckBarreto">GitHub</a>
+                <a class ="apresentacao__links__link" href="https://www.linkedin.com/in/eryckbarreto/" target="_blank">
+                    <img src="./assets/linkedin.png" alt="imagem da logo do LinkedIn">
+                    LinkedIn
+                </a>
+                <a class ="apresentacao__links__link" href="https://github.com/EryckBarreto" target="_blank">
+                    <img src="./assets/github.png" alt="imagem da logo do GitHub">
+                    GitHub
+                </a>
             </div>
         </section>
-        <img src="eryck.png" alt="imagem de um desenvolvedor de software chamado Eryck Barreto">
+        <img src="./assets/eryck.png" alt="imagem de um desenvolvedor de software chamado Eryck Barreto">
     </main>
-    <footer></footer>
+    <footer class="rodape">
+        <p>Desenvolvido por Eryck Barreto</p>
+    </footer>
     
 </body>
 </html>
