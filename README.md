@@ -22,7 +22,7 @@ Como desenvolvedor backend, aprender sobre Front é um desafio e tanto, mas acre
 
 ### Projeto da semana
 
-
+<img src="./Semana 1/HTML e CSS ambientes de desenvolvimento, estrutura de arquivos e tags/assets/Captura de tela 2024-02-07 175010.png">
 
 
 # Semana 2
