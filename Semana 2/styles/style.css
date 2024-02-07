@@ -72,13 +72,14 @@ a {
 
 .apresentacao__links {
     display: flex;
-    flex-direction: column;
     justify-content: space-between;
     align-items: center;
     gap: 32px;
 }
 
 .apresentacao__links_subtitulo {
+    display: flex;
+    justify-content: center;
     font-family: var(--fonte-primaria);
     font-weight: 400;
     font-size: 24px;
