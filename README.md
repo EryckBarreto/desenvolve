@@ -24,5 +24,16 @@ Como desenvolvedor backend, aprender sobre Front é um desafio e tanto, mas acre
 
 <img src="./Semana 1/HTML e CSS ambientes de desenvolvimento, estrutura de arquivos e tags/assets/Captura de tela 2024-02-07 175010.png">
 
+- Projeto personalizado com paletas de cores pessoais e disposição de itens
+- Imagem pessoal
+- Projeto com intenção de ser usado como portfolio pessoal
+- Botões levando corretamente as minhas redes sociais
 
-# Semana 2
+
+# Semana 2 - 🍃
+
+Na semana 2, continuo estudando HTML e CSS, focando na estruturação de páginas web com elementos como cabeçalho e rodapé. Aprendi a aplicar estilos utilizando CSS, incluindo o uso de variáveis para facilitar a manutenção do código. 
+
+No momento, estou estudando técnicas para tornar os projetos responsivos, garantindo uma boa experiência de visualização em diferentes dispositivos.
+
+### Projeto da semana - em progresso
