@@ -37,3 +37,5 @@ Na semana 2, continuo estudando HTML e CSS, focando na estruturação de página
 No momento, estou estudando técnicas para tornar os projetos responsivos, garantindo uma boa experiência de visualização em diferentes dispositivos.
 
 ### Projeto da semana - em progresso
+
+<img src="./Semana 2/assets/Portfolio.mp4">
