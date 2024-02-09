@@ -163,6 +163,8 @@ a {
         flex-direction: column;
     }
 
+}
+
     @media (max-width: 500px) {
 
         .apresentacao__links__navegacao {
@@ -182,7 +184,8 @@ a {
             transition: all 0.3s ease;
         }
 
+        .apresentacao_imagem {
+            width: 30%;
+            height: auto;         }
+
     }
-
-
-}
