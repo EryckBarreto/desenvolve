@@ -119,11 +119,11 @@ a {
 
 .rodape {
     padding: 24px;
-    color: #000;
-    background-color: var(--cor-terciaria);
+    color: var(--cor-secundaria);
+    background-color: #9217f071;
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 400;
 }
 
