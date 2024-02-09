@@ -19,6 +19,9 @@ body {
     box-sizing: border-box;
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
   
 
@@ -49,6 +52,7 @@ a {
     align-items: center;
     justify-content: space-between;
     gap: 82px;
+    flex: 1
 }
 
 .apresentacao__conteudo {
@@ -122,6 +126,7 @@ a {
     font-size: 1.5rem;
     font-weight: 400;
 }
+
 
 .video__pagina__inicial {
     position: fixed;
