@@ -1,6 +1,6 @@
 <a href="https://freeimage.host/br"><img src="https://iili.io/J1xNF5J.png" alt="J1xNF5J.png" border="0" /></a>
 
-Olá, como vocês estão? Esse repositório tem o objetivo de servir como um registro da minha jornada no programa "Desenvolve 2024" do Grupo Boticário. Com mais de 30 mil inscritos, fui um dos escolhidos para fazer parte da formação FullStack.
+Olá, como estão? Esse repositório tem o objetivo de servir como um registro da minha jornada no programa "Desenvolve 2024" do Grupo Boticário. Com mais de 30 mil inscritos, fui um dos escolhidos para fazer parte da formação FullStack.
 
 Vou documentar meu desenvolvimento, semana a semana, centralizando aqui os projetos, aulas, e resolução de estudos de caso. Estou muito feliz com essa jornada. 
 O curso iniciou no dia 29/01/2024 e tem previsão para ser concluído até 07/2024, com uma carga horária acima de 350 horas.
