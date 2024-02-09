@@ -31,8 +31,15 @@ Como desenvolvedor backend, aprender sobre Front é um desafio e tanto, mas acre
 
 # Semana 2 - 🍃
 
-Na semana 2, continuo estudando HTML e CSS, focando na estruturação de páginas web com elementos como cabeçalho e rodapé. Aprendi a aplicar estilos utilizando CSS, incluindo o uso de variáveis para facilitar a manutenção do código. 
+Na semana 2, estudo focado em HTML e CSS, na estruturação de páginas web com elementos como cabeçalho e rodapé. Aprendi a aplicar estilos utilizando CSS, incluindo o uso de variáveis para facilitar a manutenção do código. Apliquei conceitos de responsividade, estilização e acessibilidade.
 
-No momento, estou estudando técnicas para tornar os projetos responsivos, garantindo uma boa experiência de visualização em diferentes dispositivos.
 
-### Projeto da semana - em progresso
+### Projeto da semana
+
+https://github.com/EryckBarreto/desenvolve/assets/126429105/ce5f93cf-de51-46e5-97ff-672c55e69a78
+
+- Projeto desenvolvido com características pessoais
+- Vídeo adicionado ao fundo como um diferencial para o estilo do projeto
+- Responsividade para acesso dos mais diferentes tipos de tela.
+
+
