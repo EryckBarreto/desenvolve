@@ -163,6 +163,26 @@ a {
         flex-direction: column;
     }
 
+    @media (max-width: 500px) {
+
+        .apresentacao__links__navegacao {
+            display: flex;
+            justify-content: center;
+            gap: 16px;
+            border: 2px solid var(--cor-terciaria);
+            width: 50%;
+            text-align: center;
+            border-radius: 8px;
+            font-size: 1.2rem;
+            padding: 21.5px 0;
+            text-decoration: none;
+            color: var(--cor-secundaria);
+            font-family: var(--fonte-secundaria);
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+    }
 
 
 }
