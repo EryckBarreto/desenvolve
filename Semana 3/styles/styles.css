@@ -1,0 +1,10 @@
+@import url("./header.css");
+
+:root {
+    --cor-de-fundo : #ebecee;
+    --cor-de-fundo-secundaria : #fff;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
