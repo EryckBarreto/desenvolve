@@ -10,6 +10,7 @@ O curso iniciou no dia 29/01/2024 e tem previsão para ser concluído até 07/20
 
 - [Semana 1 | 29/01 - 05/02](#semana1)
 - [Semana 2 | 05/02 - 12/02](#semana2)
+- [Semana 3 | 12/02 - 19/02](#semana3)
 
 
 # Semana 1 - 🌱
@@ -42,4 +43,5 @@ https://github.com/EryckBarreto/desenvolve/assets/126429105/ce5f93cf-de51-46e5-9
 - Vídeo adicionado ao fundo como um diferencial para o estilo do projeto
 - Responsividade para acesso dos mais diferentes tipos de tela.
 
+# Semana 3 - 🌾
 
