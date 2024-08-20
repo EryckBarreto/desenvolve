@@ -33,7 +33,7 @@ O curso iniciou no dia 29/01/2024 e tem previsão para ser concluído até 07/20
 - [Semana 23 | 01/07 - 08/07](#semana23)
 - [Semana 24 | 08/07 - 15/07](#semana24)
 
-# Semana 1 - 🌱
+# Semana 1 - 🌱 <a name="semana1"></a>
 
 Na semana 1 aprendi sobre HTML e CSS. Comecei com ambientes de desenvolvimento e a estrutura de arquivos e tags do HTML. Depois, aprendi sobre classes em CSS, como posicionar elementos e como usar Flexbox para layouts responsivos.
 
@@ -47,7 +47,7 @@ Na semana 1 aprendi sobre HTML e CSS. Comecei com ambientes de desenvolvimento e
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 2 - 🍃
+# Semana 2 - 🍃 <a name="semana2"></a>
 
 Na semana 2, estudo focado em HTML e CSS, na estruturação de páginas web com elementos como cabeçalho e rodapé. Aprendi a aplicar estilos utilizando CSS, incluindo o uso de variáveis para facilitar a manutenção do código. Apliquei conceitos de responsividade, estilização e acessibilidade.
 
@@ -61,37 +61,37 @@ https://github.com/EryckBarreto/desenvolve/assets/126429105/ce5f93cf-de51-46e5-9
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 3 - 🌾
+# Semana 3 - 🌾 <a name="semana3"></a>
 
 Na semana 3, o foco foi em responsividade utilizando a abordagem mobile-first, que permite que os projetos se adaptem melhor a dispositivos móveis. Além disso, iniciei o aprendizado sobre Git e GitHub para compartilhar e colaborar em projetos.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 4 - 🌿
+# Semana 4 - 🌿 <a name="semana4"></a>
 
 A semana 4 foi dedicada ao JavaScript e HTML, onde desenvolvi um jogo simples para praticar lógica de programação. Este projeto serviu como uma introdução ao JavaScript, abordando conceitos básicos como variáveis, funções e manipulação de arrays.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 5 - 🍂
+# Semana 5 - 🍂 <a name="semana5"></a>
 
 Nesta semana, aprofundei o conhecimento em JavaScript, com foco em tipos, variáveis, funções, arrays, e objetos. Aprendi a estruturar e manipular dados de forma eficiente e a implementar funcionalidades mais complexas nos projetos.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 6 - 🍁
+# Semana 6 - 🍁 <a name="semana6"></a>
 
 Na semana 6, dei os primeiros passos com Node.js, criando uma biblioteca personalizada. Essa experiência inicial com Node.js foi fundamental para entender o backend e preparar para os próximos desafios.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 7 - 🌲
+# Semana 7 - 🌲 <a name="semana7"></a>
 
 Estudos avançados em JavaScript foram o foco da semana 7, explorando programação orientada a objetos (POO) e o funcionamento do HTTP para entender melhor como a web opera nos bastidores.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 8 - 🌴
+# Semana 8 - 🌴 <a name="semana8"></a>
 
 Iniciei o primeiro projeto prático, construindo um site responsivo completo para uma empresa de cosméticos. O desafio foi criar um layout flexível, adaptável a dispositivos móveis e desktops, aplicando tudo o que foi aprendido em HTML e CSS até agora. Porém como o primeiro projeto é o início do projeto final, vou apresentar apenas o projeto final. Segue os requisitos dessa primeira parte:
 
@@ -107,112 +107,108 @@ e. Publicação: Publique o projeto em um servidor ou plataforma de hospedagem.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 9 - 🌳
+# Semana 9 - 🌳 <a name="semana9"></a>
 
 Explorei a manipulação do DOM em JavaScript, criando páginas dinâmicas e interativas. Também aprendi a utilizar localStorage para armazenar dados no navegador.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 10 - 🌻
+# Semana 10 - 🌻 <a name="semana10"></a>
 
 Nesta semana, estudei mais sobre manipulação de elementos e trabalhei com APIs para consumir e tratar dados. Isso adicionou uma camada de interatividade e funcionalidade aos projetos.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 11 - 🌼
+# Semana 11 - 🌼 <a name="semana11"></a>
 
 Continuei com JavaScript, focando em métodos de array e requisições, essencial para manipular grandes volumes de dados e criar interfaces dinâmicas e responsivas.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 12 - 🌷
+# Semana 12 - 🌷 <a name="semana12"></a>
 
 O foco da semana 12 foi a validação de formulários com JavaScript, garantindo que os dados inseridos pelo usuário sejam corretos e seguros.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 13 - 🌸
+# Semana 13 - 🌸 <a name="semana13"></a>
 
 Introdução ao Figma, onde aprendi a utilizar essa ferramenta para design, incluindo a criação de componentes, auto layout e máscaras.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 14 - 🌹
+# Semana 14 - 🌹 <a name="semana14"></a>
 
 Semana dedicada ao estudo de Design System, abordando a definição de estilos, tokens e a criação e documentação de componentes reutilizáveis.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 15 - 🌺
+# Semana 15 - 🌺 <a name="semana15"></a>
 
 Estudos em banco de dados PostgreSQL, onde aprendi sobre comandos DML, DDL, e a utilização de views, sub-consultas e funções para otimizar consultas.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 16 - 🌼
+# Semana 16 - 🌼 <a name="semana16"></a>
 
 Finalizei os estudos em PostgreSQL e iniciei o aprendizado em MongoDB, um banco de dados NoSQL, essencial para aplicações que exigem flexibilidade na estrutura de dados.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 17 - 🌷
+# Semana 17 - 🌷 <a name="semana17"></a>
 
 Estudos em Node.js continuaram com a criação de uma API Rest utilizando Express e MongoDB. Aprendi a lidar com buscas, filtros, paginação e tratamento de erros.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 18 - 🌺
+# Semana 18 - 🌺 <a name="semana18"></a>
 
 A semana 18 focou em testes unitários e de integração em Node.js, essenciais para garantir a qualidade e o funcionamento correto das APIs.
-Também iniciei o segundo projeto prático, que era um aprofundamento do primeiro e também vou postar o resultado no projeto final.
-O projeto tinha os seguintes requisitos:
+Também iniciei o segundo projeto prático, que era um aprofundamento e a finalização do primeiro projeto prático e o qual é o projeto final do curso. Segue os requisitos dessa segunda parte:
 
-a. Identificação de Elementos: Identifique os elementos do site onde a interatividade será aplicada.
+a. Funcionalidade Avançada: Implemente funcionalidades dinâmicas com JavaScript.
 
-b. Manipulação do DOM: Utilize JavaScript para manipular o DOM e adicionar comportamentos interativos.
+b. Formulários: Crie e valide formulários utilizando HTML, CSS e JavaScript.
 
-c. Eventos de Usuário: Implemente eventos de usuário, como cliques, mouseover e mouseout, para acionar a interatividade.
+c. Integração com APIs: Realize a integração do projeto com APIs externas, como geolocalização e redes sociais.
 
-d. Validação: Se for relevante, integre validação de formulários para garantir que os dados do usuário sejam inseridos corretamente.
-
-e. Teste e Aprimoramento: Teste a interatividade em diferentes dispositivos e faça ajustes para garantir que funcione de maneira consistente.
+d. Testes: Realize testes de usabilidade e funcionalidades no projeto.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 19 - 🌻
+# Semana 19 - 🌹 <a name="semana19"></a>
 
-Explorando criptografia e tokens JWT em Node.js, aprendi a implementar autenticação segura e a criar perfis de usuário com permissões específicas.
-
-[(Voltar ao topo)](#progresso)
-
-# Semana 20 - 🌸
-
-Estudos em Integração Contínua e Entrega Contínua, fundamentais para manter a qualidade e a confiabilidade no desenvolvimento e implantação de software.
+Consolidei os conhecimentos em Node.js, explorando middlewares, autenticação e autorização em APIs Rest, além de práticas de segurança.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 21 - 🌹
+# Semana 20 - 🌻 <a name="semana20"></a>
 
-Introdução ao Docker, onde aprendi a criar e gerenciar containers para facilitar o desenvolvimento e a implantação de aplicações.
-
-[(Voltar ao topo)](#progresso)
-
-# Semana 22 - 🌴
-
-Estudos sobre Microsserviços, abordando padrões de projeto e explorando os conceitos fundamentais para a construção de aplicações distribuídas.
+Iniciei os estudos em React, criando componentes funcionais e utilizando hooks. Aprendi a estrutura básica de um projeto React e como gerenciar o estado da aplicação.
 
 [(Voltar ao topo)](#progresso)
 
-# Semana 23 - 🌳
+# Semana 21 - 🌼 <a name="semana21"></a>
 
-Foco em Integração Contínua com testes automatizados e pipelines no GitHub Actions, garantindo que as aplicações sejam testadas e implantadas com segurança.
-
-[(Voltar ao topo)](#progresso)
-
-# Semana 24 - 🌿
-
-A semana 24 encerrou com estudos sobre LGPD, entendendo os direitos de uso e as responsabilidades no tratamento de dados, essenciais para a conformidade legal em projetos.
+Aprofundei o conhecimento em React, trabalhando com Context API para gerenciamento de estado global e integrando o frontend com a API Rest desenvolvida anteriormente.
 
 [(Voltar ao topo)](#progresso)
 
+# Semana 22 - 🌸 <a name="semana22"></a>
+
+Continuei os estudos em React, abordando roteamento com React Router e otimização de performance em aplicações React.
+
+[(Voltar ao topo)](#progresso)
+
+# Semana 23 - 🌺 <a name="semana23"></a>
+
+Trabalhei na implementação de testes em aplicações React utilizando Jest e React Testing Library, garantindo a qualidade do código.
+
+[(Voltar ao topo)](#progresso)
+
+# Semana 24 - 🌻 <a name="semana24"></a>
+
+Finalização do projeto final e apresentação. Refatoração de código e aplicação das melhores práticas aprendidas ao longo do curso.
+
+[(Voltar ao topo)](#progresso)
 
