@@ -223,7 +223,7 @@ O Apotecaria é um projeto FullStack desenvolvido como parte do desafio do progr
 
 No backend, destacam-se a implementação de funcionalidades essenciais, como o cadastro de usuários, autenticação segura com hashing de senhas via bcrypt, e a validação rigorosa dos dados com express-validator. Já no frontend, o foco está na criação de uma interface intuitiva e adaptável a diversos dispositivos, com elementos interativos e manipulação dinâmica do DOM, proporcionando uma experiência de usuário aprimorada.
 
-- O projeto pode ser encontrado aqui: [Repositório](https://github.com/EryckBarreto/apotecaria-projeto-fullstack))
+- O projeto pode ser encontrado aqui: [Repositório](https://github.com/EryckBarreto/apotecaria-projeto-fullstack)
 
 https://github.com/user-attachments/assets/9b4045b8-a0f3-4a6a-b7b3-ddd02750eefd
 
