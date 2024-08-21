@@ -45,6 +45,8 @@ Na semana 1 aprendi sobre HTML e CSS. Comecei com ambientes de desenvolvimento e
 - Projeto personalizado com paletas de cores pessoais e disposição de itens
 - Imagem pessoal
 - Projeto com intenção de ser usado como portfolio pessoal
+- O site está disponível para visualização no seguinte link: [Página pessoal](https://eryckbarreto.tech/)
+
 
 [(Voltar ao topo)](#progresso)
 
@@ -59,6 +61,8 @@ https://github.com/EryckBarreto/desenvolve/assets/126429105/ce5f93cf-de51-46e5-9
 - Projeto desenvolvido com características pessoais
 - Vídeo adicionado ao fundo como um diferencial para o estilo do projeto
 - Responsividade para acesso dos mais diferentes tipos de tela.
+- O site está disponível para visualização no seguinte link: [Página pessoal](https://eryckbarreto.vercel.app/)
+- O projeto pode ser encontrado aqui: [Repositório](https://github.com/EryckBarreto/desenvolve/tree/main/Semana%202)
 
 [(Voltar ao topo)](#progresso)
 
@@ -219,6 +223,7 @@ O Apotecaria é um projeto FullStack desenvolvido como parte do desafio do progr
 
 No backend, destacam-se a implementação de funcionalidades essenciais, como o cadastro de usuários, autenticação segura com hashing de senhas via bcrypt, e a validação rigorosa dos dados com express-validator. Já no frontend, o foco está na criação de uma interface intuitiva e adaptável a diversos dispositivos, com elementos interativos e manipulação dinâmica do DOM, proporcionando uma experiência de usuário aprimorada.
 
+- O projeto pode ser encontrado aqui: [Repositório](https://github.com/EryckBarreto/apotecaria-projeto-fullstack))
 
 https://github.com/user-attachments/assets/9b4045b8-a0f3-4a6a-b7b3-ddd02750eefd
 
