@@ -32,6 +32,7 @@ O curso iniciou no dia 29/01/2024 e tem previsão para ser concluído até 07/20
 - [Semana 22 | 24/06 - 01/07](#semana22)
 - [Semana 23 | 01/07 - 08/07](#semana23)
 - [Semana 24 | 08/07 - 15/07](#semana24)
+- [Projeto Final - A Apotecária - Fullstack](#apotecaria)
 
 # Semana 1 - 🌱 <a name="semana1"></a>
 
@@ -211,4 +212,16 @@ Trabalhei na implementação de testes em aplicações React utilizando Jest e R
 Finalização do projeto final e apresentação. Refatoração de código e aplicação das melhores práticas aprendidas ao longo do curso.
 
 [(Voltar ao topo)](#progresso)
+
+# Projeto Final - A Apotecária - Fullstack <a name="apotecaria"></a>
+
+O Apotecaria é um projeto FullStack desenvolvido como parte do desafio do programa Desenvolve 2024 do Grupo Boticário. Ele integra uma API robusta de gerenciamento de usuários, criada com Express.js e MongoDB, com um site responsivo e interativo, desenvolvido em HTML, CSS e JavaScript.
+
+No backend, destacam-se a implementação de funcionalidades essenciais, como o cadastro de usuários, autenticação segura com hashing de senhas via bcrypt, e a validação rigorosa dos dados com express-validator. Já no frontend, o foco está na criação de uma interface intuitiva e adaptável a diversos dispositivos, com elementos interativos e manipulação dinâmica do DOM, proporcionando uma experiência de usuário aprimorada.
+
+
+https://github.com/user-attachments/assets/9b4045b8-a0f3-4a6a-b7b3-ddd02750eefd
+
+
+
 
